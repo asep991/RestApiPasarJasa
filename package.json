@@ -1,0 +1,22 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "RestApiPasarJasa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asep991/RestApiPasarJasa.git"
+  },
+  "keywords": [
+    "phezapez99"
+  ],
+  "author": "Aseptian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asep991/RestApiPasarJasa/issues"
+  },
+  "homepage": "https://github.com/asep991/RestApiPasarJasa#readme"
+}
